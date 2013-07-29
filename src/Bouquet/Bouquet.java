@@ -21,7 +21,7 @@ public class Bouquet implements Decor {
 		createBouquet();
 	}
 
-	// создаем букет из георгинов и роз
+	// sozdaem buket iz roz i georginov
 	private void createBouquet() {
 
 		for (int i = 0; i < roseCount; i++) {
